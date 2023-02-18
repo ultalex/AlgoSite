@@ -1,0 +1,57 @@
+.description {
+    margin: 50px 50px 0px 50px;
+    display: flex;
+}
+
+.description p {
+    color: gray;
+    width: 400px;
+    margin-left: 30px;
+}
+
+.description h2 {
+    width: 340px;
+    font-size: 26px;
+    margin-left: 30px;
+}
+
+.description img {
+    width: 500px;
+    margin-left: 90px;
+}
+
+.companii {
+    display: flex;
+    justify-content: space-around;
+}
+
+.companii img {
+    width: 120px;
+    margin-top: 70px;
+}
+
+.list_zadach {
+    width: 470px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.description_img {
+    width: 700px;
+    margin-top: 80px;
+}
+
+.container {
+    width: 1300px;
+}
+
+.description2 {
+    margin: 50px 50px 0px 50px;
+    display: flex;
+}
+
+.description2 img {
+    width: 500px;
+    margin-left: 70px;
+}
