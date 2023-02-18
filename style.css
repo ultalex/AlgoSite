@@ -15,16 +15,19 @@ main{
 
 }
 
+.description_txt {
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
 .description p {
     color: gray;
-    width: 400px;
-    margin-left: 30px;
 }
 
 .description h2 {
     width: 340px;
     font-size: 26px;
-    margin-left: 30px;
 }
 
 .description img {
@@ -42,24 +45,3 @@ main{
     margin-top: 70px;
 }
 
-.list_zadach {
-    width: 470px;
-    margin-left: 50px;
-    display: flex;
-    justify-content: space-around;
-}
-
-.description_img {
-    width: 700px;
-    margin-top: 80px;
-}
-
-
-.description2 {
-    margin: 50px 50px 0px 100px;
-    display: flex;
-}
-
-.description2 img {
-    width: 500px;
-}
