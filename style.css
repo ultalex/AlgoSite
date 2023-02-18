@@ -5,7 +5,7 @@
 }
 
 .description {
-    margin: 50px 50px 0px 50px;
+    margin: 50px 50px 0px 90px;
     display: flex;
 }
 
@@ -50,11 +50,10 @@
 
 
 .description2 {
-    margin: 50px 50px 0px 50px;
+    margin: 50px 50px 0px 90px;
     display: flex;
 }
 
 .description2 img {
     width: 500px;
-    margin-left: 70px;
 }
