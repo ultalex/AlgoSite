@@ -5,10 +5,9 @@
 }
 
 .description {
-    margin: 50px 50px 0px 50px;
+    margin: 50px 50px 0px 100px;
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
+
 }
 
 .description p {
@@ -52,10 +51,8 @@
 
 
 .description2 {
-    margin: 50px 50px 0px 50px;
+    margin: 50px 50px 0px 100px;
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .description2 img {
