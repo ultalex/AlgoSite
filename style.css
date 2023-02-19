@@ -73,3 +73,11 @@ main{
     background-color: white;
     
 }
+
+.target_mini p {
+    font-size: 20px;
+}
+
+.target_mini h2 {
+    font-size: 30px;
+}
