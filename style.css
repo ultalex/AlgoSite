@@ -86,6 +86,7 @@ main{
 }
 
 .target_mini p {
+    width: 300px;
     font-size: 20px;
 }
 
