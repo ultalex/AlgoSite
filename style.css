@@ -84,6 +84,7 @@ main{
     border-radius: 10px;
     background-color: white;
     text-align: left;   
+    box-shadow: 5px -5px 10px rgb(214, 214, 214);
 }
 
 .target_mini img {
