@@ -11,7 +11,9 @@ main{
 
 .container2 {
     background-color: gray;
-    margin: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px;
 }
 
 .description {
