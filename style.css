@@ -61,6 +61,10 @@ main{
     font-size: 36px;
 }
 
+.container2 p {
+    font-size: 30px;
+}
+
 .target{
     display: flex;
     flex-wrap: wrap;
