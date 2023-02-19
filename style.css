@@ -62,8 +62,10 @@ main{
 }
 
 .container2 p {
-    width: 400px;
+    width: 600px;
     font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .target{
