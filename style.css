@@ -10,7 +10,7 @@ main{
 }
 
 .description {
-    margin: 50px 50px 0px 100px;
+    margin: 50px 50px 0px 120px;
     display: flex;
 
 }
@@ -32,7 +32,6 @@ main{
 
 .description img {
     width: 500px;
-    margin-left: 90px;
 }
 
 .companii {
