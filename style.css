@@ -75,14 +75,18 @@ main{
 }
 
 .target_mini{
+    padding: 20px;
     width: 340px;
     height: 400px;
     margin:20px;
-    padding: 20px;
     border: 1px solid white;
     border-radius: 10px;
     background-color: white;
-    
+    text-align: left;   
+}
+
+.target_mini img {
+    padding-left: 40px;
 }
 
 .target_mini p {
@@ -91,5 +95,6 @@ main{
 }
 
 .target_mini h2 {
+    padding: 20px;
     font-size: 30px;
 }
