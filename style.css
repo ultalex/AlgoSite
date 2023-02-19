@@ -18,7 +18,7 @@ main{
 }
 
 .description {
-    margin: 50px 50px 0px 150px;
+    margin: 50px 50px 0px 120px;
     display: flex;
 
 }
@@ -40,7 +40,7 @@ main{
 
 .description h2 {
     width: 360px;
-    font-size: 28px;
+    font-size: 30px;
 }
 
 .description img {
