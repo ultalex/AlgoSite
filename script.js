@@ -1,3 +1,5 @@
+alert('test')
+
 let block = document.querySelector('.block')
 let create_card_btn = document.querySelector('body')
 
@@ -12,5 +14,3 @@ create_card_btn.addEventListener('click', function(e) {
        duration: 2000
    })
 })
-
-alert('test')
