@@ -13,7 +13,7 @@ create_card_btn1.addEventListener('click', function(e) {
    })
 })
 
-let create_card_btn2 = document.querySelector('.container2')
+let create_card_btn2 = document.querySelector('.description')
 
 create_card_btn2.addEventListener('click', function(e) {
    block.style.transform = `translate(${e.pageX - 25}px, ${e.pageY - 25}px)`
@@ -36,7 +36,7 @@ create_card_btn2.addEventListener('click', function(e) {
            {value:'0px'},
        ],
        display: 'none',
-       duration: 6000
+       duration: 2000
    })
 })
 
@@ -55,6 +55,6 @@ create_card_btn3.addEventListener('click', function(e) {
            {opacity:0}
        ],
        display: 'none',
-       duration: 6000
+       duration: 2000
    })
 })
