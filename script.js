@@ -12,3 +12,5 @@ create_card_btn.addEventListener('click', function(e) {
        duration: 2000
    })
 })
+
+alert('test')
