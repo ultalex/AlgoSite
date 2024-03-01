@@ -13,7 +13,7 @@ create_card_btn1.addEventListener('click', function(e) {
    })
 })
 
-let create_card_btn2 = document.querySelector('.description')
+let create_card_btn2 = document.querySelector('.container2')
 
 create_card_btn2.addEventListener('click', function(e) {
    block.style.transform = `translate(${e.pageX - 25}px, ${e.pageY - 25}px)`
