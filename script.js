@@ -1,7 +1,7 @@
 alert('test')
 
 let block = document.querySelector('.block')
-let create_card_btn = document.querySelector('body')
+let create_card_btn = document.querySelector('.container')
 
 create_card_btn.addEventListener('click', function(e) {
    block.style.transform = `translate(${e.pageX - 25}px, ${e.pageY - 25}px)`
