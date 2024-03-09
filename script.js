@@ -40,9 +40,10 @@ create_card_btn2.addEventListener('click', function(e) {
    })
 })
 
-let create_card_btn3 = document.querySelector('.target_mini')
+let create_card_btn3 = document.querySelectorAll('.target_mini')
 
-create_card_btn3.addEventListener('click', function(e) {
+for (let i = 0; i < create_card_btn3.length; i += 1) {
+create_card_btn3[i].addEventListener('click', function(e) {
    block.style.transform = `translate(${e.pageX - 25}px, ${e.pageY - 25}px)`
    anime({
        targets: '.block',
@@ -58,3 +59,4 @@ create_card_btn3.addEventListener('click', function(e) {
        duration: 2000
    })
 })
+}
